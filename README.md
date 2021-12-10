@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sayburn
+- 👋 Hi, I’m Jercy
 - 👀 I’m interested in learning new things!
 - 🌱 I’m currently learning web development, search engine optimization, copywriting and social media marketing.
 - 💞️ I’m looking to collaborate on everyone that has enough knowledge about coding.
